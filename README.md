@@ -26,3 +26,18 @@ pytorch, openai gym needed
 <img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/7.png">
 <img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/8.png">
 </div>
+
+### PPO algo
+----------
+<div>
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/9.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/10.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/11.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/12.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/13.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/14.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/15.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/16.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/17.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/18.png">
+</div>
