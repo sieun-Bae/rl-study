@@ -18,3 +18,11 @@ pytorch, openai gym needed
 <img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/4.png">
 <img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/5.png">
 </div>
+
+### DQN algo
+----------
+<div>
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/6.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/7.png">
+<img width="400" src="https://github.com/sieun-Bae/rl-study/blob/master/image/8.png">
+</div>
